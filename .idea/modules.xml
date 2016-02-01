@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393.iml" filepath="$PROJECT_DIR$/AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

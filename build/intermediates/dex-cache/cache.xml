@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Marcin\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.3.2\7d6149d856b880bbd676047aacb8446a758fbbdb\androidannotations-api-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7d6149d856b880bbd676047aacb8446a758fbbdb">
+        <dex dex="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.3.2-24694086cedafb38a06bf24d5b4f0786c92bdfeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.6.0\a0990e2e812ac6639b6ce955c91b13228500476e\jackson-annotations-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0990e2e812ac6639b6ce955c91b13228500476e">
+        <dex dex="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.6.0-2e03bafd796e1af7d27ef630dd1c4f3f970a3c06.jar" />
+    </item>
+    <item
+        jar="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\classes-7aca17f025cedeb235d0801c283efc87572ce70d.jar" />
+    </item>
+    <item
+        jar="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-77535dbecafa78aefc6165ebf0ba51bf4b6bc926.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcin\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-core\2.0.0.M3\c7e2c60943248bbce5de6cf552592281ed2296b\spring-android-core-2.0.0.M3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0c7e2c60943248bbce5de6cf552592281ed2296b">
+        <dex dex="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\spring-android-core-2.0.0.M3-09023fe820c6b4d2ab175a27018b0090a94ff4a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.6.0\d2e494b027c26edc4d4e7e9251e168e6af26d2d3\jackson-databind-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d2e494b027c26edc4d4e7e9251e168e6af26d2d3">
+        <dex dex="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\jackson-databind-2.6.0-b5eb1b201a439810abb1b28a380ed228082388a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-b8e05e3062d15616fb643b98e7658fa4a2951bab.jar" />
+    </item>
+    <item
+        jar="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\classes-f6ef35e7c058255eaf9d3e9967f4e078811b96a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcin\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-rest-template\2.0.0.M3\204c594c2a47073b30d3cb14ca69ba1066c4e44c\spring-android-rest-template-2.0.0.M3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="204c594c2a47073b30d3cb14ca69ba1066c4e44c">
+        <dex dex="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\spring-android-rest-template-2.0.0.M3-a3c9e77f74da2089a834a0b84f41ef7434670560.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.6.0\ba4506602d0f51d214ba16b80e2e70a714152a20\jackson-core-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ba4506602d0f51d214ba16b80e2e70a714152a20">
+        <dex dex="D:\Studia\Magisterka\I rok\Android\Lista_produktow\AndroidApp400-11174f63b52423a970c8eb3f95e0066b4b2c4393\app\build\intermediates\pre-dexed\debug\jackson-core-2.6.0-08c71d26de668273f4f1d8ef65ed98e01a656549.jar" />
+    </item>
+
+</items>
